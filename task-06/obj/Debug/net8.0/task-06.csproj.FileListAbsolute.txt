@@ -1,0 +1,28 @@
+/Users/varvarahromusina/Desktop/task-06/obj/Debug/net8.0/task-06.GeneratedMSBuildEditorConfig.editorconfig
+/Users/varvarahromusina/Desktop/task-06/obj/Debug/net8.0/task-06.AssemblyInfoInputs.cache
+/Users/varvarahromusina/Desktop/task-06/obj/Debug/net8.0/task-06.AssemblyInfo.cs
+/Users/varvarahromusina/Desktop/task-06/obj/Debug/net8.0/task-06.csproj.CoreCompileInputs.cache
+/Users/varvarahromusina/Desktop/task-06/bin/Debug/net8.0/task-06
+/Users/varvarahromusina/Desktop/task-06/bin/Debug/net8.0/task-06.deps.json
+/Users/varvarahromusina/Desktop/task-06/bin/Debug/net8.0/task-06.runtimeconfig.json
+/Users/varvarahromusina/Desktop/task-06/bin/Debug/net8.0/task-06.dll
+/Users/varvarahromusina/Desktop/task-06/bin/Debug/net8.0/task-06.pdb
+/Users/varvarahromusina/Desktop/task-06/obj/Debug/net8.0/task-06.dll
+/Users/varvarahromusina/Desktop/task-06/obj/Debug/net8.0/refint/task-06.dll
+/Users/varvarahromusina/Desktop/task-06/obj/Debug/net8.0/task-06.pdb
+/Users/varvarahromusina/Desktop/task-06/obj/Debug/net8.0/task-06.genruntimeconfig.cache
+/Users/varvarahromusina/Desktop/task-06/obj/Debug/net8.0/ref/task-06.dll
+/Users/varvarahromusina/Desktop/2 курс/КАиСД/task-06/bin/Debug/net8.0/task-06
+/Users/varvarahromusina/Desktop/2 курс/КАиСД/task-06/bin/Debug/net8.0/task-06.deps.json
+/Users/varvarahromusina/Desktop/2 курс/КАиСД/task-06/bin/Debug/net8.0/task-06.runtimeconfig.json
+/Users/varvarahromusina/Desktop/2 курс/КАиСД/task-06/bin/Debug/net8.0/task-06.dll
+/Users/varvarahromusina/Desktop/2 курс/КАиСД/task-06/bin/Debug/net8.0/task-06.pdb
+/Users/varvarahromusina/Desktop/2 курс/КАиСД/task-06/obj/Debug/net8.0/task-06.GeneratedMSBuildEditorConfig.editorconfig
+/Users/varvarahromusina/Desktop/2 курс/КАиСД/task-06/obj/Debug/net8.0/task-06.AssemblyInfoInputs.cache
+/Users/varvarahromusina/Desktop/2 курс/КАиСД/task-06/obj/Debug/net8.0/task-06.AssemblyInfo.cs
+/Users/varvarahromusina/Desktop/2 курс/КАиСД/task-06/obj/Debug/net8.0/task-06.csproj.CoreCompileInputs.cache
+/Users/varvarahromusina/Desktop/2 курс/КАиСД/task-06/obj/Debug/net8.0/task-06.dll
+/Users/varvarahromusina/Desktop/2 курс/КАиСД/task-06/obj/Debug/net8.0/refint/task-06.dll
+/Users/varvarahromusina/Desktop/2 курс/КАиСД/task-06/obj/Debug/net8.0/task-06.pdb
+/Users/varvarahromusina/Desktop/2 курс/КАиСД/task-06/obj/Debug/net8.0/task-06.genruntimeconfig.cache
+/Users/varvarahromusina/Desktop/2 курс/КАиСД/task-06/obj/Debug/net8.0/ref/task-06.dll
