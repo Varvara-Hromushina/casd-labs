@@ -1,0 +1,14 @@
+/Users/varvarahromusina/Desktop/task-04/bin/Debug/net8.0/task-04
+/Users/varvarahromusina/Desktop/task-04/bin/Debug/net8.0/task-04.deps.json
+/Users/varvarahromusina/Desktop/task-04/bin/Debug/net8.0/task-04.runtimeconfig.json
+/Users/varvarahromusina/Desktop/task-04/bin/Debug/net8.0/task-04.dll
+/Users/varvarahromusina/Desktop/task-04/bin/Debug/net8.0/task-04.pdb
+/Users/varvarahromusina/Desktop/task-04/obj/Debug/net8.0/task-04.GeneratedMSBuildEditorConfig.editorconfig
+/Users/varvarahromusina/Desktop/task-04/obj/Debug/net8.0/task-04.AssemblyInfoInputs.cache
+/Users/varvarahromusina/Desktop/task-04/obj/Debug/net8.0/task-04.AssemblyInfo.cs
+/Users/varvarahromusina/Desktop/task-04/obj/Debug/net8.0/task-04.csproj.CoreCompileInputs.cache
+/Users/varvarahromusina/Desktop/task-04/obj/Debug/net8.0/task-04.dll
+/Users/varvarahromusina/Desktop/task-04/obj/Debug/net8.0/refint/task-04.dll
+/Users/varvarahromusina/Desktop/task-04/obj/Debug/net8.0/task-04.pdb
+/Users/varvarahromusina/Desktop/task-04/obj/Debug/net8.0/task-04.genruntimeconfig.cache
+/Users/varvarahromusina/Desktop/task-04/obj/Debug/net8.0/ref/task-04.dll
