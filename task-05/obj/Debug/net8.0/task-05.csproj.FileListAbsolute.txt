@@ -1,0 +1,28 @@
+/Users/varvarahromusina/Desktop/task-05/bin/Debug/net8.0/task-05
+/Users/varvarahromusina/Desktop/task-05/bin/Debug/net8.0/task-05.deps.json
+/Users/varvarahromusina/Desktop/task-05/bin/Debug/net8.0/task-05.runtimeconfig.json
+/Users/varvarahromusina/Desktop/task-05/bin/Debug/net8.0/task-05.dll
+/Users/varvarahromusina/Desktop/task-05/bin/Debug/net8.0/task-05.pdb
+/Users/varvarahromusina/Desktop/task-05/obj/Debug/net8.0/task-05.GeneratedMSBuildEditorConfig.editorconfig
+/Users/varvarahromusina/Desktop/task-05/obj/Debug/net8.0/task-05.AssemblyInfoInputs.cache
+/Users/varvarahromusina/Desktop/task-05/obj/Debug/net8.0/task-05.AssemblyInfo.cs
+/Users/varvarahromusina/Desktop/task-05/obj/Debug/net8.0/task-05.csproj.CoreCompileInputs.cache
+/Users/varvarahromusina/Desktop/task-05/obj/Debug/net8.0/task-05.dll
+/Users/varvarahromusina/Desktop/task-05/obj/Debug/net8.0/refint/task-05.dll
+/Users/varvarahromusina/Desktop/task-05/obj/Debug/net8.0/task-05.pdb
+/Users/varvarahromusina/Desktop/task-05/obj/Debug/net8.0/task-05.genruntimeconfig.cache
+/Users/varvarahromusina/Desktop/task-05/obj/Debug/net8.0/ref/task-05.dll
+/Users/varvarahromusina/Desktop/2 курс/КАиСД/task-05/bin/Debug/net8.0/task-05
+/Users/varvarahromusina/Desktop/2 курс/КАиСД/task-05/bin/Debug/net8.0/task-05.deps.json
+/Users/varvarahromusina/Desktop/2 курс/КАиСД/task-05/bin/Debug/net8.0/task-05.runtimeconfig.json
+/Users/varvarahromusina/Desktop/2 курс/КАиСД/task-05/bin/Debug/net8.0/task-05.dll
+/Users/varvarahromusina/Desktop/2 курс/КАиСД/task-05/bin/Debug/net8.0/task-05.pdb
+/Users/varvarahromusina/Desktop/2 курс/КАиСД/task-05/obj/Debug/net8.0/task-05.GeneratedMSBuildEditorConfig.editorconfig
+/Users/varvarahromusina/Desktop/2 курс/КАиСД/task-05/obj/Debug/net8.0/task-05.AssemblyInfoInputs.cache
+/Users/varvarahromusina/Desktop/2 курс/КАиСД/task-05/obj/Debug/net8.0/task-05.AssemblyInfo.cs
+/Users/varvarahromusina/Desktop/2 курс/КАиСД/task-05/obj/Debug/net8.0/task-05.csproj.CoreCompileInputs.cache
+/Users/varvarahromusina/Desktop/2 курс/КАиСД/task-05/obj/Debug/net8.0/task-05.dll
+/Users/varvarahromusina/Desktop/2 курс/КАиСД/task-05/obj/Debug/net8.0/refint/task-05.dll
+/Users/varvarahromusina/Desktop/2 курс/КАиСД/task-05/obj/Debug/net8.0/task-05.pdb
+/Users/varvarahromusina/Desktop/2 курс/КАиСД/task-05/obj/Debug/net8.0/task-05.genruntimeconfig.cache
+/Users/varvarahromusina/Desktop/2 курс/КАиСД/task-05/obj/Debug/net8.0/ref/task-05.dll
