@@ -37,7 +37,7 @@ class MyStack<T> : MyVector<T>
     public int Search(T item)
     {
         if(IndexOf(item) == -1) return -1;
-        else return elementCount - IndexOf(item) + 1;
+        else return IndexOf(item);
     }
 
     public void Print()
