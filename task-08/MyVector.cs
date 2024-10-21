@@ -226,7 +226,7 @@ class MyVector<T>
 
     public int IndexOf(object obj)
     {
-        for(int i = 0; i < elementCount; i++) if(obj.Equals(elementData[i])) return i;
+        for(int i = 0; i <= elementCount; i++) if(obj.Equals(elementData[i])) return i;
         return -1;
     }
 
