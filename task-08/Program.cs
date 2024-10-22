@@ -1,52 +1,73 @@
-using System.ComponentModel;
-using System.Runtime.InteropServices;
+using System;
 
 class MyStack<T> : MyVector<T>
 {
     private int currentIndex;
+
     public MyStack()
     {
-        elementCount++; 
-        currentIndex = elementCount;      
-        elementData = new T[elementCount]; 
-        capacityIncrement = 0;
-    }
-    
-     public void Push(T item)
-    {
-        Add(currentIndex, item); 
+        elementCount = 0; // Количество элементов в стеке
+        currentIndex = -1; // Индекс текущего элемента
+        capacityIncrement = 1; // Начальная емкость стека
+        elementData = new T[capacityIncrement]; // Инициализация массива
     }
 
-    public void Pop()
+    public void Push(T item)
     {
-        Remove(currentIndex);
+        // Проверка на необходимость увеличения емкости
+        if (currentIndex + 1 >= elementData.Length)
+        {
+            Array.Resize(ref elementData, elementData.Length + capacityIncrement);
+        }
+        currentIndex++;
+        elementData[currentIndex] = item;
+        elementCount++;
+    }
+
+    public T Pop()
+    {
+        if (Empty())
+            throw new InvalidOperationException("Стек пуст");
+        
+        T result = elementData[currentIndex]; // Получаем верхний элемент
+        currentIndex--;
         elementCount--;
+        return result;
     }
 
     public T Peek()
     {
-        if(elementCount == 0) throw new Exception("Стек пуст");
-        else return Get(currentIndex);
+        if (Empty())
+            throw new InvalidOperationException("Стек пуст");
+        
+        return elementData[currentIndex]; // Возвращаем верхний элемент без удаления
     }
 
     public bool Empty()
     {
-        return Size() == 0;
+        return elementCount == 0; // Проверка на пустоту
     }
 
     public int Search(T item)
     {
-        if(IndexOf(item) == -1) return -1;
-        else return IndexOf(item);
+        for (int i = 0; i <= currentIndex; i++)
+        {
+            if (EqualityComparer<T>.Default.Equals(elementData[i], item))
+            {return i; // Возвращаем индекс первого найденного элемента}
+        }
+        return -1; // Если элемент не найден
     }
 
     public void Print()
     {
-        for(int i = currentIndex; i <= elementCount; i++) {Console.Write($"{Get(i)} ");}
+        for (int i = 0; i <= currentIndex; i++)
+        {
+            Console.Write($"{elementData[i]} ");
+        }
         Console.WriteLine();
     }
-
 }
+
 
 class Program
 {
@@ -59,6 +80,9 @@ class Program
             stack.Push(3);
             stack.Push(4);
             stack.Push(5);
+            stack.Push(6);
+            stack.Push(7);
+            stack.Push(8);
             Console.WriteLine("Стек: ");
             stack.Print();
 
@@ -73,7 +97,7 @@ class Program
             Console.WriteLine(stack.Empty());
 
             Console.WriteLine("Поиск «глубины» объекта в стеке: ");
-            Console.WriteLine(stack.Search(3));
+            Console.WriteLine(stack.Search(1));
 
         }
 }
