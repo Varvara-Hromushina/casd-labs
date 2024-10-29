@@ -1,0 +1,14 @@
+/Users/varvarahromusina/Desktop/2 курс/КАиСД/task-09/bin/Debug/net8.0/task-09
+/Users/varvarahromusina/Desktop/2 курс/КАиСД/task-09/bin/Debug/net8.0/task-09.deps.json
+/Users/varvarahromusina/Desktop/2 курс/КАиСД/task-09/bin/Debug/net8.0/task-09.runtimeconfig.json
+/Users/varvarahromusina/Desktop/2 курс/КАиСД/task-09/bin/Debug/net8.0/task-09.dll
+/Users/varvarahromusina/Desktop/2 курс/КАиСД/task-09/bin/Debug/net8.0/task-09.pdb
+/Users/varvarahromusina/Desktop/2 курс/КАиСД/task-09/obj/Debug/net8.0/task-09.GeneratedMSBuildEditorConfig.editorconfig
+/Users/varvarahromusina/Desktop/2 курс/КАиСД/task-09/obj/Debug/net8.0/task-09.AssemblyInfoInputs.cache
+/Users/varvarahromusina/Desktop/2 курс/КАиСД/task-09/obj/Debug/net8.0/task-09.AssemblyInfo.cs
+/Users/varvarahromusina/Desktop/2 курс/КАиСД/task-09/obj/Debug/net8.0/task-09.csproj.CoreCompileInputs.cache
+/Users/varvarahromusina/Desktop/2 курс/КАиСД/task-09/obj/Debug/net8.0/task-09.dll
+/Users/varvarahromusina/Desktop/2 курс/КАиСД/task-09/obj/Debug/net8.0/refint/task-09.dll
+/Users/varvarahromusina/Desktop/2 курс/КАиСД/task-09/obj/Debug/net8.0/task-09.pdb
+/Users/varvarahromusina/Desktop/2 курс/КАиСД/task-09/obj/Debug/net8.0/task-09.genruntimeconfig.cache
+/Users/varvarahromusina/Desktop/2 курс/КАиСД/task-09/obj/Debug/net8.0/ref/task-09.dll
