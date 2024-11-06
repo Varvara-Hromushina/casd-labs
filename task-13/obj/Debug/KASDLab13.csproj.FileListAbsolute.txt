@@ -1,0 +1,104 @@
+c:\Projects\KASDLab03\bin\Debug\KASDLab03.exe.config
+c:\Projects\KASDLab03\bin\Debug\KASDLab03.exe
+c:\Projects\KASDLab03\bin\Debug\KASDLab03.pdb
+c:\Projects\KASDLab03\bin\Debug\ZedGraph.dll
+c:\Projects\KASDLab03\bin\Debug\ZedGraph.xml
+c:\Projects\KASDLab03\bin\Debug\de\ZedGraph.resources.dll
+c:\Projects\KASDLab03\bin\Debug\es\ZedGraph.resources.dll
+c:\Projects\KASDLab03\bin\Debug\fr\ZedGraph.resources.dll
+c:\Projects\KASDLab03\bin\Debug\hu\ZedGraph.resources.dll
+c:\Projects\KASDLab03\bin\Debug\it\ZedGraph.resources.dll
+c:\Projects\KASDLab03\bin\Debug\ja\ZedGraph.resources.dll
+c:\Projects\KASDLab03\bin\Debug\pt\ZedGraph.resources.dll
+c:\Projects\KASDLab03\bin\Debug\ru\ZedGraph.resources.dll
+c:\Projects\KASDLab03\bin\Debug\sk\ZedGraph.resources.dll
+c:\Projects\KASDLab03\bin\Debug\sv\ZedGraph.resources.dll
+c:\Projects\KASDLab03\bin\Debug\tr\ZedGraph.resources.dll
+c:\Projects\KASDLab03\bin\Debug\zh-cn\ZedGraph.resources.dll
+c:\Projects\KASDLab03\bin\Debug\zh-tw\ZedGraph.resources.dll
+c:\Projects\KASDLab03\obj\Debug\KASDLab13.csproj.AssemblyReference.cache
+c:\Projects\KASDLab03\obj\Debug\KASDLab13.Form.resources
+c:\Projects\KASDLab03\obj\Debug\KASDLab03.Properties.Resources.resources
+c:\Projects\KASDLab03\obj\Debug\KASDLab13.csproj.GenerateResource.cache
+c:\Projects\KASDLab03\obj\Debug\KASDLab13.csproj.CoreCompileInputs.cache
+C:\Projects\KASDLab03\obj\Debug\KASDLab13.csproj.Up2Date
+c:\Projects\KASDLab03\obj\Debug\KASDLab03.exe
+c:\Projects\KASDLab03\obj\Debug\KASDLab03.pdb
+c:\Projects\KASDLab13\obj\Debug\KASDLab13.csproj.AssemblyReference.cache
+c:\Projects\KASDLab13\obj\Debug\KASDLab13.Form.resources
+c:\Projects\KASDLab13\obj\Debug\KASDLab13.csproj.GenerateResource.cache
+c:\Projects\KASDLab13\obj\Debug\KASDLab13.csproj.CoreCompileInputs.cache
+c:\Projects\KASDLab13\bin\Debug\ZedGraph.dll
+c:\Projects\KASDLab13\bin\Debug\ZedGraph.xml
+c:\Projects\KASDLab13\bin\Debug\de\ZedGraph.resources.dll
+c:\Projects\KASDLab13\bin\Debug\es\ZedGraph.resources.dll
+c:\Projects\KASDLab13\bin\Debug\fr\ZedGraph.resources.dll
+c:\Projects\KASDLab13\bin\Debug\hu\ZedGraph.resources.dll
+c:\Projects\KASDLab13\bin\Debug\it\ZedGraph.resources.dll
+c:\Projects\KASDLab13\bin\Debug\ja\ZedGraph.resources.dll
+c:\Projects\KASDLab13\bin\Debug\pt\ZedGraph.resources.dll
+c:\Projects\KASDLab13\bin\Debug\ru\ZedGraph.resources.dll
+c:\Projects\KASDLab13\bin\Debug\sk\ZedGraph.resources.dll
+c:\Projects\KASDLab13\bin\Debug\sv\ZedGraph.resources.dll
+c:\Projects\KASDLab13\bin\Debug\tr\ZedGraph.resources.dll
+c:\Projects\KASDLab13\bin\Debug\zh-cn\ZedGraph.resources.dll
+c:\Projects\KASDLab13\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Projects\KASDLab13\obj\Debug\KASDLab13.csproj.Up2Date
+c:\Projects\KASDLab13\bin\Debug\KASDLab13.exe.config
+c:\Projects\KASDLab13\bin\Debug\KASDLab13.exe
+c:\Projects\KASDLab13\bin\Debug\KASDLab13.pdb
+c:\Projects\KASDLab13\obj\Debug\KASDLab13.Properties.Resources.resources
+c:\Projects\KASDLab13\obj\Debug\KASDLab13.exe
+c:\Projects\KASDLab13\obj\Debug\KASDLab13.pdb
+C:\Users\79181\OneDrive\Рабочий стол\КАСД\KASDLab13\KASDLab13\bin\Debug\KASDLab13.exe.config
+C:\Users\79181\OneDrive\Рабочий стол\КАСД\KASDLab13\KASDLab13\bin\Debug\KASDLab13.exe
+C:\Users\79181\OneDrive\Рабочий стол\КАСД\KASDLab13\KASDLab13\bin\Debug\KASDLab13.pdb
+C:\Users\79181\OneDrive\Рабочий стол\КАСД\KASDLab13\KASDLab13\bin\Debug\ZedGraph.dll
+C:\Users\79181\OneDrive\Рабочий стол\КАСД\KASDLab13\KASDLab13\bin\Debug\ZedGraph.xml
+C:\Users\79181\OneDrive\Рабочий стол\КАСД\KASDLab13\KASDLab13\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\79181\OneDrive\Рабочий стол\КАСД\KASDLab13\KASDLab13\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\79181\OneDrive\Рабочий стол\КАСД\KASDLab13\KASDLab13\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\79181\OneDrive\Рабочий стол\КАСД\KASDLab13\KASDLab13\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\79181\OneDrive\Рабочий стол\КАСД\KASDLab13\KASDLab13\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\79181\OneDrive\Рабочий стол\КАСД\KASDLab13\KASDLab13\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\79181\OneDrive\Рабочий стол\КАСД\KASDLab13\KASDLab13\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\79181\OneDrive\Рабочий стол\КАСД\KASDLab13\KASDLab13\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\79181\OneDrive\Рабочий стол\КАСД\KASDLab13\KASDLab13\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\79181\OneDrive\Рабочий стол\КАСД\KASDLab13\KASDLab13\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\79181\OneDrive\Рабочий стол\КАСД\KASDLab13\KASDLab13\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\79181\OneDrive\Рабочий стол\КАСД\KASDLab13\KASDLab13\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\79181\OneDrive\Рабочий стол\КАСД\KASDLab13\KASDLab13\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\79181\OneDrive\Рабочий стол\КАСД\KASDLab13\KASDLab13\obj\Debug\KASDLab13.csproj.AssemblyReference.cache
+C:\Users\79181\OneDrive\Рабочий стол\КАСД\KASDLab13\KASDLab13\obj\Debug\KASDLab13.Form.resources
+C:\Users\79181\OneDrive\Рабочий стол\КАСД\KASDLab13\KASDLab13\obj\Debug\KASDLab13.Properties.Resources.resources
+C:\Users\79181\OneDrive\Рабочий стол\КАСД\KASDLab13\KASDLab13\obj\Debug\KASDLab13.csproj.GenerateResource.cache
+C:\Users\79181\OneDrive\Рабочий стол\КАСД\KASDLab13\KASDLab13\obj\Debug\KASDLab13.csproj.CoreCompileInputs.cache
+C:\Users\79181\OneDrive\Рабочий стол\КАСД\KASDLab13\KASDLab13\obj\Debug\KASDLab13.csproj.Up2Date
+C:\Users\79181\OneDrive\Рабочий стол\КАСД\KASDLab13\KASDLab13\obj\Debug\KASDLab13.exe
+C:\Users\79181\OneDrive\Рабочий стол\КАСД\KASDLab13\KASDLab13\obj\Debug\KASDLab13.pdb
+E:\КАСД\KASDLab13\KASDLab13\bin\Debug\KASDLab13.exe.config
+E:\КАСД\KASDLab13\KASDLab13\bin\Debug\KASDLab13.exe
+E:\КАСД\KASDLab13\KASDLab13\bin\Debug\KASDLab13.pdb
+E:\КАСД\KASDLab13\KASDLab13\bin\Debug\ZedGraph.dll
+E:\КАСД\KASDLab13\KASDLab13\bin\Debug\ZedGraph.xml
+E:\КАСД\KASDLab13\KASDLab13\bin\Debug\de\ZedGraph.resources.dll
+E:\КАСД\KASDLab13\KASDLab13\bin\Debug\es\ZedGraph.resources.dll
+E:\КАСД\KASDLab13\KASDLab13\bin\Debug\fr\ZedGraph.resources.dll
+E:\КАСД\KASDLab13\KASDLab13\bin\Debug\hu\ZedGraph.resources.dll
+E:\КАСД\KASDLab13\KASDLab13\bin\Debug\it\ZedGraph.resources.dll
+E:\КАСД\KASDLab13\KASDLab13\bin\Debug\ja\ZedGraph.resources.dll
+E:\КАСД\KASDLab13\KASDLab13\bin\Debug\pt\ZedGraph.resources.dll
+E:\КАСД\KASDLab13\KASDLab13\bin\Debug\ru\ZedGraph.resources.dll
+E:\КАСД\KASDLab13\KASDLab13\bin\Debug\sk\ZedGraph.resources.dll
+E:\КАСД\KASDLab13\KASDLab13\bin\Debug\sv\ZedGraph.resources.dll
+E:\КАСД\KASDLab13\KASDLab13\bin\Debug\tr\ZedGraph.resources.dll
+E:\КАСД\KASDLab13\KASDLab13\bin\Debug\zh-cn\ZedGraph.resources.dll
+E:\КАСД\KASDLab13\KASDLab13\bin\Debug\zh-tw\ZedGraph.resources.dll
+E:\КАСД\KASDLab13\KASDLab13\obj\Debug\KASDLab13.csproj.AssemblyReference.cache
+E:\КАСД\KASDLab13\KASDLab13\obj\Debug\KASDLab13.Form.resources
+E:\КАСД\KASDLab13\KASDLab13\obj\Debug\KASDLab13.Properties.Resources.resources
+E:\КАСД\KASDLab13\KASDLab13\obj\Debug\KASDLab13.csproj.GenerateResource.cache
+E:\КАСД\KASDLab13\KASDLab13\obj\Debug\KASDLab13.csproj.CoreCompileInputs.cache
+E:\КАСД\KASDLab13\KASDLab13\obj\Debug\KASDLab13.csproj.Up2Date
+E:\КАСД\KASDLab13\KASDLab13\obj\Debug\KASDLab13.exe
+E:\КАСД\KASDLab13\KASDLab13\obj\Debug\KASDLab13.pdb
