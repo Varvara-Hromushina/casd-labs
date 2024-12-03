@@ -1,0 +1,6 @@
+Double => colour = -15;
+Int => temp = 34;
+Float => temperature = -70;
+Float => pi = 3.14;
+Double => price = 155.9;
+Int => myVariable = 100;
