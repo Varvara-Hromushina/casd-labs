@@ -1,0 +1,14 @@
+/Users/varvarahromusina/Desktop/2 курс/КАиСД/task-19/bin/Debug/net8.0/task-19
+/Users/varvarahromusina/Desktop/2 курс/КАиСД/task-19/bin/Debug/net8.0/task-19.deps.json
+/Users/varvarahromusina/Desktop/2 курс/КАиСД/task-19/bin/Debug/net8.0/task-19.runtimeconfig.json
+/Users/varvarahromusina/Desktop/2 курс/КАиСД/task-19/bin/Debug/net8.0/task-19.dll
+/Users/varvarahromusina/Desktop/2 курс/КАиСД/task-19/bin/Debug/net8.0/task-19.pdb
+/Users/varvarahromusina/Desktop/2 курс/КАиСД/task-19/obj/Debug/net8.0/task-19.GeneratedMSBuildEditorConfig.editorconfig
+/Users/varvarahromusina/Desktop/2 курс/КАиСД/task-19/obj/Debug/net8.0/task-19.AssemblyInfoInputs.cache
+/Users/varvarahromusina/Desktop/2 курс/КАиСД/task-19/obj/Debug/net8.0/task-19.AssemblyInfo.cs
+/Users/varvarahromusina/Desktop/2 курс/КАиСД/task-19/obj/Debug/net8.0/task-19.csproj.CoreCompileInputs.cache
+/Users/varvarahromusina/Desktop/2 курс/КАиСД/task-19/obj/Debug/net8.0/task-19.dll
+/Users/varvarahromusina/Desktop/2 курс/КАиСД/task-19/obj/Debug/net8.0/refint/task-19.dll
+/Users/varvarahromusina/Desktop/2 курс/КАиСД/task-19/obj/Debug/net8.0/task-19.pdb
+/Users/varvarahromusina/Desktop/2 курс/КАиСД/task-19/obj/Debug/net8.0/task-19.genruntimeconfig.cache
+/Users/varvarahromusina/Desktop/2 курс/КАиСД/task-19/obj/Debug/net8.0/ref/task-19.dll
