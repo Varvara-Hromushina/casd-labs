@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\task-23\task-23\obj\Debug\task-23.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\task-23\task-23\obj\Debug\task-23.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\task-23\task-23\bin\Debug\task-23.exe.config
+C:\Users\User\source\repos\task-23\task-23\bin\Debug\task-23.exe
+C:\Users\User\source\repos\task-23\task-23\bin\Debug\task-23.pdb
+C:\Users\User\source\repos\task-23\task-23\obj\Debug\task-23.exe
+C:\Users\User\source\repos\task-23\task-23\obj\Debug\task-23.pdb
