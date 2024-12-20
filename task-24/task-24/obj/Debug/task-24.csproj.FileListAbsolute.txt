@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\task-24\task-24\bin\Debug\task-24.exe.config
+C:\Users\User\source\repos\task-24\task-24\bin\Debug\task-24.exe
+C:\Users\User\source\repos\task-24\task-24\bin\Debug\task-24.pdb
+C:\Users\User\source\repos\task-24\task-24\obj\Debug\task-24.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\task-24\task-24\obj\Debug\task-24.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\task-24\task-24\obj\Debug\task-24.exe
+C:\Users\User\source\repos\task-24\task-24\obj\Debug\task-24.pdb
