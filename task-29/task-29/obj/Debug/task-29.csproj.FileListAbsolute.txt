@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\task-29\task-29\bin\Debug\task-29.exe.config
+C:\Users\User\source\repos\task-29\task-29\bin\Debug\task-29.exe
+C:\Users\User\source\repos\task-29\task-29\bin\Debug\task-29.pdb
+C:\Users\User\source\repos\task-29\task-29\obj\Debug\task-29.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\task-29\task-29\obj\Debug\task_29.Properties.Resources.resources
+C:\Users\User\source\repos\task-29\task-29\obj\Debug\task-29.csproj.GenerateResource.cache
+C:\Users\User\source\repos\task-29\task-29\obj\Debug\task-29.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\task-29\task-29\obj\Debug\task-29.exe
+C:\Users\User\source\repos\task-29\task-29\obj\Debug\task-29.pdb
+C:\Users\User\source\repos\task-29\task-29\obj\Debug\task_29.Edge.resources
